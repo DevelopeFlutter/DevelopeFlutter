@@ -33,7 +33,7 @@
 <a href="https://www.linkedin.com/in/usman-ali-a62440222" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/usman-ali-33939025b/" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/19109873/usman-ali" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/19109873/usman-ali" height="30" width="40" /></a>
 <a href="https://www.facebook.com/DevelopeFlutterApp/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="usman ghani" height="30" width="40" /></a>
-<a href="https://instagram.com/developingpro" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="developingpro" height="30" width="40" /></a>
+<a href="https://www.instagram.com/developingpro/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="developingpro" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
